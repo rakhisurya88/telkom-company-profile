@@ -25,4 +25,4 @@ try {
 
 } catch (mysqli_sql_exception $e) { 
 
-    exit('Koneksi database gagal. Periksa Apache/MySQL dan konfigurasi database.'); 
+    exit('Koneksi database gagal. Periksa Apache/MySQL dan konfigurasi database.'); }
